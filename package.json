@@ -1,0 +1,19 @@
+{
+  "name": "@midgar/mail",
+  "version": "1.0.0-alpha.1.1",
+  "description": "A Midgar plugin to send email",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+  },
+  "dependencies": {
+    "@midgar/midgar": "^1.0.0-alpha.1.3",
+    "@midgar/utils": "^1.0.0-alpha.1.2",
+    "nodemailer": "^4.7.0"
+  },
+  "devDependencies": {
+  },
+  "author": "Metais Fabien",
+  "license": "MIT"
+}
